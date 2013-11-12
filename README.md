@@ -10,4 +10,4 @@ Or
 1. Download sha1
 2. sudo cp sha1 /usr/local/bin
 
-![1](hhttp://dl.dropboxusercontent.com/u/25925697/Screenshots/SHA1.png)
+![1](http://dl.dropboxusercontent.com/u/25925697/Screenshots/SHA1.png)
